@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Guerrimau.
 - 👀 I’m interested in Web and Mobile Development.
-- 🌱 I’m currently learning Data Science
 - 📫 How to reach me https://www.linkedin.com/in/gerardo-mayboca-enriquez-31741819a/
