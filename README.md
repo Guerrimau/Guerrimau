@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gerardo Mayboca</h1>
 <h3 align="center">A passionate Frontend developer from México</h3>
 
-- 🌱 I’m currently learning **Next.js & Tailwindcss**
+- 🌱 I am currently dedicating myself to mastering **Next.js and Tailwind CSS** .
 
-- 💬 Ask me about **React, GraphQL, MaterialUI, and CSS**
+- 💬 Ask me about **React, Redux, Tankstack, Node, GraphQL, MaterialUI, and CSS**
 
 - 📫 How to reach me **gmayboca@gmail.com**
 
